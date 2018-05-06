@@ -6,4 +6,6 @@ I have taken [this](https://www.kaggle.com/meganrisdal/la-county-restaurant-insp
 heavily modified it to allow for visualization.  Specifically, the separate violations and inspection datasets have been
 joined and augmented with geocode information.
 
-The Jupyter notebook has a weighted heat map with time that allows for displaying custom time windows.
+The Jupyter notebook has a weighted heat map with time that allows for displaying custom time windows. To view the heat map, follow this link:
+
+http://nbviewer.jupyter.org/github/craig-m-k/kaggle/blob/master/LARestaurants/LA%20Restaurants.ipynb
