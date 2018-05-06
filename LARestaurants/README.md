@@ -9,3 +9,5 @@ joined and augmented with geocode information.
 The Jupyter notebook has a weighted heat map with time that allows for displaying custom time windows. To view the heat map, follow this link:
 
 http://nbviewer.jupyter.org/github/craig-m-k/kaggle/blob/master/LARestaurants/LA%20Restaurants.ipynb
+
+(This may not render correctly in Chrome, but it works in Safari.)
